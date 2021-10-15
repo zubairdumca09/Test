@@ -1,0 +1,18 @@
+.product{
+    width: 31%;
+    height: 200px;
+    border: 1px solid brown;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.detail{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+    justify-content: space-between;
+}
+.image{
+    height: 150px;
+    width: 100%;
+}

@@ -1,0 +1,44 @@
+[
+    {
+        "id": "123",
+        "name": "Employee1",
+        "dob": "01/03/1986",
+        "dept": "Technical",
+        "designation": "Associate"
+    },
+    {
+        "id": "124",
+        "name": "Employee2",
+        "dob": "01/03/1985",
+        "dept": "Non-Technical",
+        "designation": "Sr. Associate"
+    },
+    {
+        "id": "124",
+        "name": "Employee2",
+        "dob": "01/03/1985",
+        "dept": "Non-Technical",
+        "designation": "Sr. Associate"
+    },
+    {
+        "id": "123",
+        "name": "Employee1",
+        "dob": "01/03/1986",
+        "dept": "Technical",
+        "designation": "Associate"
+    },
+    {
+        "id": "124",
+        "name": "Employee2",
+        "dob": "01/03/1985",
+        "dept": "Non-Technical",
+        "designation": "Sr. Associate"
+    },
+    {
+        "id": "124",
+        "name": "Employee2",
+        "dob": "01/03/1985",
+        "dept": "Non-Technical",
+        "designation": "Sr. Associate"
+    }
+]

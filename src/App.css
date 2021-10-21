@@ -5,5 +5,33 @@
   flex-wrap: wrap;
   padding: 20px;
 }
+.label{
+  width: 25%;
+  display: inline-block;
+}
+.formInput{
+  width: 100%;
+  padding: 10px
+}
+.form{
+  width: 100%;
+}
+.input{
+  height: 25px;
+  width: 300px;
+  padding: 3px;
+  border: 1px solid #D6d6d6;
+  border-radius: 4px;
+}
+.btn{
+  height: 40px;
+  width: 306px;
+  background-color: brown;
+  color: white;
+  font-size: large;
+  font-weight: 700;
+  border: 1px solid brown;
+  border-radius: 4px;
+}
 
 

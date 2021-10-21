@@ -50,3 +50,5 @@ const person = {
 person["address"].city = "x"
 
 changeWithObj(person.name, "first", {})
+
+

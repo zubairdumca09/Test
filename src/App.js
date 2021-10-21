@@ -3,6 +3,7 @@ import './App.css';
 import Product from './components/products/Product'
 import products from './json/products.json'
 import Table from './components/employees/Table'
+import AddEmployee from './components/employees/AddEmployee'
 
 function App() {
   console.log(products)
@@ -19,7 +20,8 @@ function App() {
           )
         })
       } */}
-      <Table />
+      {/* <Table /> */}
+      <AddEmployee />
     </div>
   );
 }
